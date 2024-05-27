@@ -33,7 +33,7 @@ function setup() {
 // DRAW FUNCTION
 function draw () {
   // Repeat 4000 times
-  for(let i = 0;i < 4000; i++) {
+  for (let i = 0;i < 4000; i++) {
     let x = floor(random(sourceImg.width));
     let y = floor(random(sourceImg.height));
     let pix = sourceImg.get(x, y);
