@@ -3,9 +3,9 @@ let sourceImg;
 let maskImg;
 
 // Declare image files
-let sourceFile = "input_2.jpg";
-let maskFile = "mask_2.png";
-let outputFile = "output_2.png";
+let sourceFile = "input_1.jpg";
+let maskFile = "mask_1.png";
+let outputFile = "output_1.png";
 
 // Declare image width and height
 let imgWidth = 1920;
